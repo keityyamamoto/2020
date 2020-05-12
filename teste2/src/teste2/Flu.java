@@ -4,5 +4,6 @@ public class Flu {
 
 	public Flu() {
 		// TODO Auto-generated constructor stub
+		// teste 1
 	}
 }
